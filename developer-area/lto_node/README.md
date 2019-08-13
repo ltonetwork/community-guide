@@ -1,2 +1,0 @@
-# LTO Node
-
