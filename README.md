@@ -76,7 +76,7 @@ This section is dedicated to the more technically-advanced, including informatio
 
 | Section | Description |
 | :--- | :--- |
-| [Rest API](developer-area/lto_node_rest_api/) | Address, Blocks, Peers, and Utils. |
-| [LTO Node](developer-area/lto_node/) | Setup requirements, and LTO environment specifications. |
-| [LTO Protocol](developer-area/lto_protocol/) | About NG, Data Structures, and LPoS. |
+| [Rest API]() | Address, Blocks, Peers, and Utils. |
+| [LTO Node]() | Setup requirements, and LTO environment specifications. |
+| [LTO Protocol]() | About NG, Data Structures, and LPoS. |
 

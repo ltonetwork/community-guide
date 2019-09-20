@@ -7,7 +7,7 @@ description: Hybrid architecture enabling GDPR compliance and scalability.
 
 
 {% hint style="info" %}
-This is a high-level look into the LTO Network hybrid architecture and public-private setup, with a short summary on how the token comes into play. For deeper understanding, refer to [papers](../../#papers), dedicated company pages, and [Developer Area](../../developer-area/hashing-anchoring.md).
+This is a high-level look into the LTO Network hybrid architecture and public-private setup, with a short summary on how the token comes into play. For deeper understanding, refer to [papers](../../#papers), dedicated company pages, and [Developer Area]().
 
 \*\*\*\*[**Help us Build!**](../../community-area/social-mining/tech-team.md)\*\*\*\*
 {% endhint %}
@@ -46,7 +46,7 @@ The logic in each miniature chain is defined as [Finite State Machine](https://m
 
 Each private chain is visible to and shared only with the participants that are supposed to be interacting in that particular Live Contract. This means that the number of participants on each chain is limited, as most legal contracts consist of only about a handful participants.
 
-As a result, guaranteeing immutability on just the private chain itself is hard. This is where the public chain comes in \(layer 1\). Every event happening in layer 2 \(or rather, the fact that an event happened, not the data itself\) is being [hashed](../../developer-area/hashing-anchoring.md) onto layer 1.
+As a result, guaranteeing immutability on just the private chain itself is hard. This is where the public chain comes in \(layer 1\). Every event happening in layer 2 \(or rather, the fact that an event happened, not the data itself\) is being [hashed]() onto layer 1.
 
 A hash is _a one-way function that converts one value to another_. When a document is hashed, a unique hash is generated, consisting of just digits and letters. Because hashing is a one-way function, the document itself can never be re-generated from just the hash.
 

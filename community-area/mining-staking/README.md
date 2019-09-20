@@ -20,8 +20,6 @@ Here are a few key points for the miners:
 
 You can read more about the structure in the Developer area.
 
-{% page-ref page="../../developer-area/lto\_protocol/" %}
-
 {% hint style="info" %}
 Node rewards are [transactions fees ](http://dev.pywaves.org/LTO/generators/)of the network and correspond with the ratio of your staked amount over the total staked amount in the network. While 1,000 LTO is the requirement, it will most likely not yield frequent rewards. You can find the calculator [here](https://lto-lease.com/tools/roi).
 {% endhint %}
