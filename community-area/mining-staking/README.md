@@ -32,7 +32,7 @@ The node setup fits in one tweet, it's super simple to set up!
 2) vim docker-compose.yml   
 3) docker-compose up`
 
-Below you'll find the list to the installation guides for setting up a node on various platform. Make sure to check out the [Prepare: Setup your wallet](prepare-setup-your-wallet.md) page before jumping into the installation of your node.
+Below you'll find the list to the installation guides for setting up a node on various platform. Make sure to check out the [Prepare: Setup your wallet]() page before jumping into the installation of your node.
 
 * [Ubuntu Linux with container](node-ubuntu-linux-with-container.md)
   * [Access to your  node from the outside world using an Nginx reverse proxy](optional-nginx-reverse-proxy.md)

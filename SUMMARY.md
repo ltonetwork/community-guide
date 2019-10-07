@@ -6,7 +6,6 @@
 ## COMMUNITY AREA
 
 * [Node Setup & Staking](community-area/mining-staking/README.md)
-  * [Prepare: Setup your wallet](community-area/mining-staking/prepare-setup-your-wallet.md)
   * [Node: Alibaba Cloud](community-area/mining-staking/node-alibaba-cloud.md)
   * [Node: AWS Elastic Beanstalk](community-area/mining-staking/node-aws-elastic-beanstalk.md)
   * [Node: Google Cloud](community-area/mining-staking/node-google-cloud.md)
