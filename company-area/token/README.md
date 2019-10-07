@@ -28,7 +28,7 @@ It’s the same LTO token, it just exists on different blockchains. [**Swap in-w
 
 **More information on staking, mining, and network fees:**
 
-{% page-ref page="../../community-area/mining-staking/" %}
+{% page-ref page="../../community-area/mining-staking.md" %}
 
 
 

@@ -46,7 +46,7 @@ This section is dedicated to involving the community in our daily development. W
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><a href="community-area/mining-staking/">Staking &amp; Mining</a>
+      <td style="text-align:left"><a href="community-area/mining-staking.md">Staking &amp; Mining</a>
       </td>
       <td style="text-align:left">Set up a node, stake or lease to other community members.</td>
     </tr>

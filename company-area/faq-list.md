@@ -16,7 +16,7 @@ If you bought tokens on an exchange, it means you are holding ERC-20 LTO. Those 
 
 If you have mainnet tokens, then you can store them in the [mainnet wallet](https://wallet.LTO.network/start). It's not an actual wallet, it just generates a key pair for you, you are responsible for you keys, we don't control your LTO. Thus, make sure to save your seed and private key, more about security notes [here]().
 
-If you hold ERC-20 LTO, you cannot participate in staking and mining, that's only possible on mainnet. **If you hold mainnet LTO, you can** [**stake and mine**](../community-area/mining-staking/)**, as well as combine it with** [**social mining**](../community-area/social-mining/) **- essentially getting more LTO rewards for being an active community member.** 
+If you hold ERC-20 LTO, you cannot participate in staking and mining, that's only possible on mainnet. **If you hold mainnet LTO, you can** [**stake and mine**](../community-area/mining-staking.md)**, as well as combine it with** [**social mining**](../community-area/social-mining/) **- essentially getting more LTO rewards for being an active community member.** 
 
 ## Will there be a full token swap?
 

@@ -5,17 +5,7 @@
 
 ## COMMUNITY AREA
 
-* [Node Setup & Staking](community-area/mining-staking/README.md)
-  * [Node: Alibaba Cloud](community-area/mining-staking/node-alibaba-cloud.md)
-  * [Node: AWS Elastic Beanstalk](community-area/mining-staking/node-aws-elastic-beanstalk.md)
-  * [Node: Google Cloud](community-area/mining-staking/node-google-cloud.md)
-  * [Node: IBM Cloud](community-area/mining-staking/node-ibm-cloud.md)
-  * [Node: Microsoft Azure](community-area/mining-staking/node-microsoft-azure.md)
-  * [Node: OKD \(OpenShift\)](community-area/mining-staking/node-okd-openshift.md)
-  * [Node: Raspberry Pi \(Expert\)](community-area/mining-staking/node-raspberry-pi-expert.md)
-  * [Node: Ubuntu Linux with Container](community-area/mining-staking/node-ubuntu-linux-with-container.md)
-  * [Node: Windows with Container](community-area/mining-staking/node-windows-with-container.md)
-  * [Optional: Nginx reverse proxy](community-area/mining-staking/optional-nginx-reverse-proxy.md)
+* [Node Setup & Staking](community-area/mining-staking.md)
 * [Social Mining](community-area/social-mining/README.md)
   * [Marketing Crew](community-area/social-mining/marketing-team.md)
   * [Business Band](community-area/social-mining/business-team.md)
